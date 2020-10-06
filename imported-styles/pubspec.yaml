@@ -6,7 +6,7 @@ environment:
 
 dependencies:
   angular: ^5.3.1
-  less_dart: ^2.3.5
+  less_dart: ^2.3.8
   angular_components: ^0.13.0+1
 
 dev_dependencies:
